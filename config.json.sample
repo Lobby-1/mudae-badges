@@ -1,0 +1,13 @@
+{
+    "token": "your discord token here",
+    "channel_id": 1147273839009611910,
+    "presets": {
+        "roll": "-bi4ga4r3",
+        "snipe": "-b4gi2r3",
+        "kroll": "-big4a4r3",
+        "ksnipe": "-s4g4r3",
+        "afk": "-b4i4g3",
+        "wl": "-b4g4r"
+    },
+    "timeout": 1.5
+}
